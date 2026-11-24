@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kobreti69.bg/sitemap.xml
